@@ -1,0 +1,18 @@
+# Developed on Python 3.9.20. These are the versions the notebooks were last
+# run against end to end; see the README note on statsmodels before reporting
+# numbers from 02_prompt_effects_lmm.ipynb.
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.13.1
+scikit-learn==1.5.2
+statsmodels==0.14.4
+matplotlib==3.9.4
+seaborn==0.13.2
+openpyxl==3.1.5
+
+# Only needed for the reference notebook with MODE = "kinematics" or "emg", which
+# read the stride-level parquet files that are not distributed here.
+pyarrow==17.0.0
+
+# To run the notebooks themselves.
+jupyter

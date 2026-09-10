@@ -1,0 +1,2 @@
+Modality,N_PCs,N_subjects,VAF_min_pct,VAF_max_pct,VAF_mean_pct,VAF_sd_pct
+gait_metrics,5,12,98.8,99.9,99.7,0.3
